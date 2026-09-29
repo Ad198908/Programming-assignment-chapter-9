@@ -1,9 +1,9 @@
 """ 
-   Program name:
-    Author:
-    purpuse:
-    satrter code:
-    date:
+    Program name:Coin toss game
+    Author: Adhanet Gebretensay
+    purpuse: To create a game that takes user input, manages the game logic, and determines the winner.
+    satrter code: Player class
+    date:09/29/2026
 """
 from player import Player
 def main():

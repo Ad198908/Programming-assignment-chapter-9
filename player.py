@@ -1,9 +1,9 @@
 """
-Program Name
-Author:
-Purpose:
+Program Name:Coin toss game
+Author: Adhanet Gebretensy
+Purpose: To make a player class that manaeges the player's name, wallet ,and coin object.
 Starter Code / Resources: Coin class from coin.py
-Date
+Date:09/29/2026
 """
 
 from coin import Coin

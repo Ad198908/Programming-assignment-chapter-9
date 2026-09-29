@@ -1,9 +1,9 @@
 """
-Program Name: 
-Author:
-Purpose:
+Program Name: Coin toss game
+Author:Adhanet Gebretensay
+Purpose:To create a class that represents a single coin
 Starter Code: Python Library - random module
-Date
+Date:09/29/2026
     
 """
 
